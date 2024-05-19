@@ -1,0 +1,12 @@
+# --------------------------
+# ShiftReg library syntax
+# --------------------------
+
+# Datatypes
+ShiftReg KEYWORD1
+
+# Methods
+begin KEYWORD2
+sendData KEYWORD2
+
+# Constants (LITERAL1)
